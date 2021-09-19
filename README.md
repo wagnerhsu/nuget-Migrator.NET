@@ -1,0 +1,1 @@
+- Adding Migrator.NET to an existing production database [stackoverflow.com](https://stackoverflow.com/questions/11105093/adding-migrator-net-to-an-existing-production-database)
